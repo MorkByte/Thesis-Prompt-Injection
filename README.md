@@ -1,4 +1,4 @@
-#This Github Repo contains all conversations and attack for Master Thesis "The Red Teaming Challenge of Enhancing LLM Robustness" with ChatGPT, Llama, Gemini and Claude.  
+# This Github Repo contains all conversations and attack for Master Thesis "The Red Teaming Challenge of Enhancing LLM Robustness" with ChatGPT, Llama, Gemini and Claude.  
 
 ## Prompt Injection Bypass Techniques
 🚩 **Case Variation:** Manipulate letter casing to confuse parsing.  
